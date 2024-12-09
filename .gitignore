@@ -27,6 +27,8 @@ share/python-wheels/
 MANIFEST
 data/
 .idea/
+train_data/Annotations/
+train_data/JPEGimages/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
